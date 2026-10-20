@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 120d71485d33ddb4c92eef164c393bc7, type: 3}
+  m_Name: DialogueData_Specker_SayHello_hate
+  m_EditorClassIdentifier: 
+  dialogueDatas:
+  - owner: {fileID: 11400000, guid: 70aa48608860cf548bc2efe7036a9a2d, type: 2}
+    dialogueText: "\u6211\u8BA8\u538C\u4F60"
+  - owner: {fileID: 11400000, guid: 0238c27621471284599405b6dd83242c, type: 2}
+    dialogueText: "\u554A\uFF0C\u4E3A\u4EC0\u4E48"
+  dialogueOptions: []
+  needSpokenNPCs: []
+  needLocatedAeras: []
+  neeedItemObjects: []
+  removeAfterPlay: 0
+  testSoList: []

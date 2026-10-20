@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2d56659cdaa76f4fb1cc8a0ed451387, type: 3}
+  m_Name: Specker_Unknow
+  m_EditorClassIdentifier: 
+  speckerName: ???
+  speckerSprite: {fileID: -1104391043, guid: 7c6e32b28bd0ec54fa1d4833a700e6fa, type: 3}

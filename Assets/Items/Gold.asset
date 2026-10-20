@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a7d1e044f90eea459acb8da30cfe51a, type: 3}
+  m_Name: Gold
+  m_EditorClassIdentifier: 
+  itemID: 0
+  itemNmae: Gold
+  itemInfo: "\u91D1\u5E01\uFF0C\u4F1A\u6709\u7528\u5230\u5B83\u7684\u65F6\u5019"
+  itemSprite: {fileID: 21300000, guid: 1bb9b721b196aba46aa772a2187e8bff, type: 3}
+  itemValue: 0
+  itemType: 0
+  realItem1: {fileID: 3220016105995394257, guid: 79585156522c5284aa706afcfbe359ca, type: 3}
+  isStackableItem: 1
+  itemMaxStackable_Count: 64

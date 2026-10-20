@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ebe90076f1907345951ea9e79372999, type: 3}
+  m_Name: skill_09
+  m_EditorClassIdentifier: 
+  skillID: 9
+  skillName: skill_09
+  skillSprite: {fileID: 21300000, guid: d543347b6b03b914d96d7aabb3f975c5, type: 3}
+  skillDes: This is the ninth unexpected encounter in the trivial life.
+  skillLevel: 0
+  skillMaxLevel: 10
+  isOpenLock: 0
+  preSkills:
+  - {fileID: 11400000, guid: 543204f32e7ff5347b95ffb86138a532, type: 2}
+  - {fileID: 11400000, guid: 171ec49c655173f4b8a6b9f10aec1400, type: 2}
+  - {fileID: 11400000, guid: d51b25f6a9380b849ab7e3c412d93c4e, type: 2}
